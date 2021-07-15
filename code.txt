@@ -1,0 +1,3 @@
+function hello() {
+	System.out.println("Hello")'
+}
